@@ -1,0 +1,100 @@
+ku31veo	out
+ku31tb7	reaction
+ku31t7h	assertion
+ku31fnc	argument
+ku31290	assertion	HARD: snark replying to another commenter but engages the "relationships are complex" film idea
+ku30q00	out
+ku30mjy	assertion
+ku30giu	assertion
+ku305cq	assertion
+ku2zygq	argument
+ku2ztg7	assertion
+ku2zi1g	out
+ku2z5v7	argument
+ku2ygnm	assertion	HARD: cites Godfather/Napoleon as comparisons but no specific scene, mostly general writing claims
+ku2xw8k	out
+ku2xtfm	assertion
+ku2xlom	assertion
+ku2wsn1	out
+ku2wd39	out
+ku2v0zl	assertion
+ku2tnx2	argument
+ku2ry7c	argument
+ku2rqx5	argument
+ku2re61	out
+ku2r70y	argument
+ku2q8cw	out
+ku2ph4l	assertion
+ku2pcxg	out
+ku2p8i7	out	HARD: addresses OP as if character is real, mostly social/personal with condolences
+ku2nqfu	argument	HARD: names fedaykin/sietch as skimmed content plus structural time-lapse complaint
+ku2np4a	out
+ku2n0dm	out
+ku2mjs2	assertion
+ku2mja2	out
+ku2kqat	assertion
+ku2jokw	assertion	HARD: brief pointer to the Lynch Dune film, minimal claim
+ku2ilml	out
+ku2ho2o	out
+ku2hfv0	assertion
+ku2gx7u	out
+ku2gsh8	argument	HARD: names the duel as the one tense moment and the color palette, borderline decorative
+ku2fcr2	argument
+ku2f5ey	assertion
+ku2djgb	out
+ku2czuv	out
+ku2ciq6	out
+ku2b5in	assertion	HARD: sarcastic adaptation-vs-book point, no specific instance
+ku2aqyk	argument
+ku2amiy	reaction
+ku2alwd	assertion	HARD: uses Helms Deep as comparison but the point is lack of emotional connection (feeling)
+ku2ab0w	assertion	HARD: engages the Anatomy of a Fall interpretation but via a bare counter-point, no scene detail
+ku2a6x1	assertion
+ku29z06	assertion	HARD: argues adaptation/source comparison point mixed with personal jabs
+ku29jpg	assertion
+ku29a24	reaction	HARD: just agreement with a character-being-unwell read
+ku299cg	argument
+ku294le	assertion	HARD: cites editing/Nolan comparison but decoratively, no specific scene
+ku28j4z	out	HARD: semantic argument about words plus personal attack, no film idea engaged
+ku2887x	out
+ku283o0	assertion	HARD: engages whether Dune is a hard book but mostly a jab at a person
+ku27j41	argument
+ku27evk	assertion
+ku271as	argument
+ku26ti3	argument
+ku26i7j	assertion	HARD: terse factual claim about characters
+ku23lkg	assertion
+ku22nn0	argument
+ku22n12	out
+ku22m21	out
+ku22m02	argument
+ku2281s	argument
+ku21rw0	argument
+ku21ake	out
+ku1zz8h	argument
+ku1zvik	assertion	HARD: mostly about knowing film figures, lists Legrand credentials with light specifics
+ku1y033	assertion	HARD: points to the ending as evidence but rhetorical, no detail of the ending
+ku1uufu	argument	HARD: heavy person/discourse focus but the epic-films list is real evidence against a dialogue claim
+k99ukjr	argument
+k99seau	out	HARD: about the meaning of the term "popcorn flick", not a film idea
+k99ruz4	assertion	HARD: claim Barbie is profound mixed with fandom discourse
+k99rp0w	assertion
+k99rmjf	assertion
+k99qk2t	argument
+k99qand	argument
+k99pnob	argument
+k99p26p	argument
+k99ovrm	argument
+k99opi6	argument
+k99o300	assertion	HARD: mostly feelings about characters, but claims the satire worked as caricature
+k99lqer	assertion
+k99lprl	argument
+k99l9sb	out
+k99j599	argument	HARD: cites the pitch-black fight scenes and John Wick comparison, borderline decorative
+k99il9b	argument
+k99i1e1	reaction	HARD: bored impression with "slow and unengaging" verdict, no specific
+k99h5vq	argument
+k99gyhd	argument
+k99gc7g	argument
+k99d28n	out	HARD: abstract about film criticism/audiences online, no specific film idea
+k99curp	argument

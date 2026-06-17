@@ -1,1 +1,61 @@
-
+{
+  "model": "distilbert-base-uncased",
+  "run": "local CPU fine-tune (not Colab T4); seed and split differ from Colab",
+  "hyperparameters": {
+    "epochs": 3,
+    "learning_rate": 2e-05,
+    "batch_size": 16,
+    "max_length": 256
+  },
+  "split_sizes": {
+    "train": 151,
+    "validation": 32,
+    "test": 33
+  },
+  "overall_accuracy": 0.5455,
+  "macro_f1": 0.4285,
+  "per_class": {
+    "reaction": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 9
+    },
+    "assertion": {
+      "precision": 0.4211,
+      "recall": 0.6667,
+      "f1": 0.5161,
+      "support": 12
+    },
+    "argument": {
+      "precision": 0.7143,
+      "recall": 0.8333,
+      "f1": 0.7692,
+      "support": 12
+    }
+  },
+  "confusion_matrix": {
+    "labels": [
+      "reaction",
+      "assertion",
+      "argument"
+    ],
+    "rows_are_true_cols_are_pred": [
+      [
+        0,
+        9,
+        0
+      ],
+      [
+        0,
+        8,
+        4
+      ],
+      [
+        0,
+        2,
+        10
+      ]
+    ]
+  }
+}

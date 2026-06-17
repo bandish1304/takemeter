@@ -1,0 +1,100 @@
+k99bf4q	argument
+k99awrn	argument	HARD: cites a specific audio-editing detail but hedged ("I could be wrong")
+k99ajql	out
+k999lwy	out
+k9994pt	assertion
+k99913b	out
+k998vbe	out
+k998iu4	reaction
+k998enj	out
+k997qzl	out
+k997lrv	argument
+k997lox	assertion	HARD: cites critical-panning-then-reassessed pattern but names no specific film
+k997fli	assertion
+k997bmf	reaction	HARD: mostly translation/housekeeping chatter with a bare "I liked it"
+k9977ef	assertion
+k9971ky	out
+k9970qd	out
+k996ukp	out
+k996sgd	argument	HARD: names Ryan Coogler as specific counterexample within snarky reply
+k996hkv	out
+k995qba	assertion	HARD: names Tilda's character as memorable but as impression, claim is "rest won't stick"
+k995lmt	argument
+k994n01	argument
+k991vbm	reaction	HARD: agreement plus admission of not seeing a film, minimal film point
+k990ooj	reaction
+k98ycx0	argument
+k98y4n9	argument
+k98xzw9	argument
+k98xqlm	argument
+k98xdb6	reaction	HARD: feelings about the film with soundtrack mentioned decoratively
+k98x9hg	argument
+k98wb9o	argument
+k98vi37	argument
+k98vgbi	argument
+k98v83r	argument
+k98tfaf	argument
+k98tay9	assertion	HARD: lists fight-choreography films as personal preference, no specific evidence
+k98smv5	argument
+k98sc16	assertion
+k98rxx4	reaction
+k98rrzf	out
+k98rofs	argument
+k98r73k	assertion
+k98r736	argument
+k98qwbm	reaction
+k98qr2u	reaction	HARD: pacing dropped on a feeling, no specific beat
+k98qezk	argument
+k98qety	argument
+k98q5r9	assertion
+k98q5ma	assertion	HARD: "references everywhere" but no specific instance named
+k98prnh	assertion	HARD: snarky but engages realism of the fight choreography
+k98prbw	assertion
+k98plkt	argument	HARD: names first scene/score and Le Samourai comparison, somewhat decorative
+k98p8t6	argument
+k98p0gq	assertion	HARD: reasons about characters/rules but names no specific beat
+k98or7r	assertion
+k98om26	out
+k98o8kl	out
+k98o7fh	argument
+k98nymt	out
+k98nnf5	argument	HARD: meta reply but cites the gas-station-owner scene for a claim about randomness
+k98n341	argument	HARD: interpretive but cites the Tilda character and the bear joke as support
+jpxgwp2	assertion	HARD: interprets Heat as "similar lives" soap opera, no specific scene
+jpxaxh6	argument
+jpx9xcf	argument
+jpx9csz	argument	HARD: interpretive but grounded in specific character dynamics
+jpx4see	argument	HARD: praise plus the Snowman funding fact and naming another Alfredson film
+jpx4fwa	argument	HARD: heavy Nietzsche theory tied to Turin Horse's themes
+jpx32vj	argument	HARD: lists specific comedies as evidence for streaming-migration claim
+jpx2aaz	reaction	HARD: "dialogue heavy in an unpleasant way" is impression, decorative
+jpx1b24	assertion
+jpx16d1	argument	HARD: cites the cross-nomination fact, brief
+jpx0zgt	assertion	HARD: agrees and gestures at other nominees but names none himself
+jpwxzau	out
+jpwxnyk	argument
+jpwxkor	assertion	HARD: opinion on prettiness/nomination odds, no specific
+jpwwfxd	argument
+jpwvwca	argument
+jpwvtor	argument	HARD: discusses Whiplash's suffering-for-art theme with specific character points
+jpwtybn	argument
+jpwq2zm	argument
+jpwnvs0	reaction	HARD: mostly housekeeping/correction with a bare "good movie"
+jpwmhdm	out
+jpwkjk7	assertion	HARD: opinion on Kidman's acting, references a scene without describing it
+jpwji03	argument
+jpwimwq	out	HARD: plot summary of a novel, not an arguable claim about a film
+jpwejk7	assertion	HARD: animation-style comparisons but as impression, no specific instance
+jpwbvrv	argument	HARD: structural reasoning grounded in the film's themes
+jpwahk5	argument
+jpw5qwm	assertion
+jpvz1u5	argument
+jpvyeky	reaction	HARD: names the bar conversation as object of praise, decorative
+jpvwuwn	assertion	HARD: form claims (couldn't be longer/shorter) but no specific instance
+jpvw8l9	assertion	HARD: vivid acting verdict but no specific scene
+jpvuyrr	reaction	HARD: praises the composer/band, feeling about the music
+jpvtht6	argument
+jpvsalw	reaction
+jpvqe33	argument	HARD: general technical fact about runtime/pitch in transfers, checkable
+jpvq9ci	argument
+jpvq0f1	out

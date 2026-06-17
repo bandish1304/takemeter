@@ -1,0 +1,99 @@
+ls09s56	out
+ls09ezn	argument
+ls05caw	argument
+ls043am	assertion
+ls02k2l	assertion
+ls025cb	out	HARD: fragment "and, to own film tech patents" — engages a real-world point, no film idea
+lrzyb22	assertion
+lrzy8ug	assertion
+lrzv89w	reaction
+lrzuooo	argument
+lrzt0wi	argument
+lrzt0sz	assertion
+lrzsp03	assertion
+lrzrw8o	assertion
+lrzpybs	out	HARD: about elite-conspiracy framing, not a film idea
+lrzmeh7	assertion
+lrzjnfv	argument
+lrzhvg1	argument
+lrzf92t	assertion
+lrza7q7	argument
+lrz7lw7	assertion
+lbf3ip9	argument
+lbf2zxa	assertion
+lbf2f3a	assertion
+lbf0slm	argument
+lbezh49	assertion
+lbez90b	assertion
+lbex338	argument
+lbevwf1	assertion
+lbeua3s	argument
+lbetm28	argument
+lbetddc	out	HARD: bare film title only, no idea engaged
+lbet1dw	argument
+lbeo6xx	assertion
+lben9so	out	HARD: bare recommendation "try Vivarium", no film idea
+lben9dl	out
+lbemh3p	argument
+lbek2nh	assertion
+lbeiqw5	argument
+lbei9r7	out	HARD: muses about studio archiving practices, no film idea
+lbegy0o	reaction
+lbed7mx	out	HARD: bare list of film titles, no idea engaged
+lbecoq4	assertion
+lbeck4q	argument
+lbec070	argument
+lbeb9z4	out
+lbeb8hy	reaction
+lbeac83	argument
+lbe66y5	reaction
+lbe4hgk	argument
+lbe49ba	assertion
+lbdxbm1	out
+lbdwrvl	assertion
+lbdtx8f	out
+lbdtwdg	out
+lbdtk67	out
+lbdtben	out	HARD: song lyrics quoted, no film idea engaged
+lbdt6pm	out	HARD: bare film-title answer "The New World, without question"
+lbdt43q	reaction
+lbdsg01	argument
+lbdqjmk	argument
+lbdmzyw	out
+lbdlk2t	argument
+lbdk57b	argument
+lbdjovj	argument
+lbdiw8g	reaction
+lbdiif2	out
+lbdh2gb	assertion
+lbdfn0u	assertion
+lbdd8b8	out
+lbdcuof	argument
+lbdchgf	assertion
+lbdamgh	out
+lbd94py	argument
+lbd7g3s	out
+lbd7ch1	reaction
+lbd7bxr	out
+lbd7bun	argument
+lbd73ij	argument
+lbd68is	argument
+lbd5hec	out	HARD: list of film/director recommendations, no idea engaged
+lbd2oti	assertion
+lbd2d1e	argument
+lbd1846	argument
+lbcwhom	out
+lbcvzqu	out
+lbcvz8m	assertion
+lbcvz0l	out
+lbcvg5t	argument
+lbcuiwt	out
+lbcuasp	argument
+lbcuasd	reaction
+lbcu9sc	argument
+lbcu5y7	out	HARD: song lyrics quoted, no film idea engaged
+lbcs6fy	assertion
+ku32vu6	argument
+ku32gaq	out
+ku32bfy	assertion
+ku328dx	argument
