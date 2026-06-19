@@ -1,6 +1,6 @@
 {
   "model": "distilbert-base-uncased",
-  "run": "local CPU fine-tune (not Colab T4); seed and split differ from Colab",
+  "run": "CPU fine-tune; seed and split differ from Colab",
   "hyperparameters": {
     "epochs": 3,
     "learning_rate": 2e-05,
