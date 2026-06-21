@@ -298,6 +298,8 @@ or discard, the reaction calls were applied the same way across the set.
 - Error pattern deep dive:
 - Deployed interface:
 
+https://www.loom.com/share/5fd9f0b3bdc54b0faf83c4b19e70bc38
+
 ## AI Usage
 
 This project used AI assistance in a limited but real way, so the workflow needs a specific disclosure.
